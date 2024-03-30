@@ -4,9 +4,9 @@
 ![Selenium Badge](https://img.shields.io/badge/Selenium-Web%20Scraping-green.svg)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow.svg)
 
-- This Python script uses the Selenium library to automate a web browser (in this case, Chrome) to scrape job listings from Google's job search results. 🌐🔍
+- This Python script uses the Selenium library to automate chrome browser to scrape job listings from Google's job search results. 🌐🔍
 
-- It takes a list of job roles and companies, constructs a Google search URL for each combination, and navigates to that page. 📝🔗
+- It takes job roles and companies, constructs a Google search URL for each combination, and navigates to that page. 📝🔗
 
 - It then scrolls through the page to load all job listings, and for each listing, it clicks on the listing to load the job details. 🔄💼
 
